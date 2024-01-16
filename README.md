@@ -1,33 +1,56 @@
-# **TATA Virtual Experience Program by Forage**
+# **PWC Virtual Experience Program by Forage**
 
 ## **Project Overview:**
 
-An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
-Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.000 posts per year. We will analyze the sample of this dataset from them.
+PwC is a multinational professional services network of firms, operating under the PwC brand. It is one of the Big Four accounting firms, along with Deloitte, EY, and KPMG. With offices in 151 countries and more than 364,000 people. 
+
+The tasks here were to analyze three datasets with different industry backdrops.
+- Call Center dataset to understand the agent and customer behaviour.
+- Churn dataset to understand the reason for churn and retain the customers.
+- HR datset to check of diversity and inclusion.
 
 ## **Project Findings:**
-<img width="595" alt="image" src="https://github.com/Gnpavan/TATA_Forage_Virtual_Internsjip_Program/assets/89655397/df9d068b-2187-45b8-9d2b-2b06440f3895">
+![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/13a7b9d5-40f1-4bb5-8e68-c7e26da4a611)
 
-Above is the dashboard I have built with the online retail dataset received from the team. They wanted to understand the better performing countries, top customers, sales by year so that the visuals helps in forecasting the trends of the upcoming years and also they hope the insights would help in understanding the flaws with the sales.
 
-- United Kingdom is making sales by huge margin when compared to others and is a flag to note.
-- As their major focus was to look at thar 2011 year sales as that was the best compared to 2023, they had exceptional growth in their revenue from the month August to Nivember.
-- It clearly shows that the quantity of products with lesser unit price have more sales.
+Above is the dashboard I have built with the call center dataset received from the team. This case study deals with the Call Centre Trends. Here, we analyse the number of incoming calls, call agent's performance, speed of answer, call duration, trends on daily and hourly basis and customer satisfaction ratings. The dashboard defines key KPIs that impact the customer satisfaction as well as performance of the call agents. The goal is to identify opportunities where the performance can be monitored and enhanced.
 
-## **Project Recommendations:**
+-	The ratio between the number of calls received and issues resolved is very minimal which directly shows that Agents are pretty much doing their job in solving the issues.
+-	Agents are quick to answer a call which is around a minute, and they just take around 3 minutes to solve an issue.
+-	The average satisfaction rating for the agents is not that bad but can be improved by reducing the time in answering the call, attending all calls without abounding any.
 
-- The company should come up with strategies that aim at stocking and advertising seasonal products to maximize sales when the demand for these goods goes up.
-- The company should do a deeper analysis of products that are usually in high demand during low sales months to come up with strategies for marketing these products.
-- A deeper dive into the type of products and the revenue generated from these products for each region would be key in guiding region-specific marketing strategies.
-- The company should consider incentivizing top revenue generating customers to strengthen the relationship with these customers.
+![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/baf681c6-ff96-4ed3-b0fe-b103c6da826f)
+
+![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/899b0950-8ba8-431a-b0a9-c407477d3f73)
+
+The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have the highest chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to reduce the churning rate and increase customer loyalty.
+
+-	Target Senior Citizen Segment, offer personalized assistance and discounts to senior citizens to increase retention.
+-	Engage Single Customers, create exclusive loyalty programs for singles to strengthen their connection with the service.
+-	Incentivize Longer Contracts, provide additional benefits or cost savings for customers who opt for longer than 1-year contracts.
+-	Enhance Fiber Optic Internet Experience, invest in improving fibre optic infrastructure and provide faster, more reliable internet service.
+-	Proactive Customer Support for Admin Tickets. Prioritize resolving admin tickets promptly to show attentive customer care.
+-	Tailored Retention Offers, offer personalized retention offers based on individual customer needs and preferences.
+
+![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/478166f4-57a9-4092-8010-7cb9c20f18f2)
+
+![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/67169379-745c-4834-9e79-9494886c0af7)
+
+Here, we create a dashboard on the employee participation in the organisation. We define the key KPIs like, New Hires, Promotions, Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity and eliminating gender-based stereotyping is key to the balanced workforce and company success.
+
+•	The higher turnover percentage among female employees suggests that there may be factors leading to dissatisfaction or challenges specific to female employees’ experiences within the company. This could include issues related to work-life balance, workplace culture, or career advancement opportunities.
+•	The observation that there are more male employees in higher-level job profiles indicates that there may be systemic barriers or a lack of support for female employees to progress into leadership positions.
+•	Higher promotions of females in the Junior Officer profile but at the top level profile female promotion is lower. This may be connected to performance rating, lack of support, and training to improve performance.
 
 ## **Project Outcomes:**
 
-- Completed a simulation involving creating data visualizations for Tata Consultancy Services
-- Prepared questions for a meeting with client senior leadership
-- Created visuals for data analysis to help executives with effective decision making
+- Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
+Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
+- Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+- Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-<img width="625" alt="image" src="https://github.com/Gnpavan/TATA_Forage_Virtual_Internsjip_Program/assets/89655397/b3afe5aa-731f-414d-90a3-5c9f29ce214d">
+<img width="627" alt="image" src="https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/dcc0dc5d-1075-4347-8499-d3a150b13f4d">
+
 
 
 
