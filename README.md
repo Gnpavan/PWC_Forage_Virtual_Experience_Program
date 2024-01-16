@@ -38,9 +38,9 @@ The organisation is keen to know the possible customers who are likely to churn.
 
 Here, we create a dashboard on the employee participation in the organisation. We define the key KPIs like, New Hires, Promotions, Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity and eliminating gender-based stereotyping is key to the balanced workforce and company success.
 
-•	The higher turnover percentage among female employees suggests that there may be factors leading to dissatisfaction or challenges specific to female employees’ experiences within the company. This could include issues related to work-life balance, workplace culture, or career advancement opportunities.
-•	The observation that there are more male employees in higher-level job profiles indicates that there may be systemic barriers or a lack of support for female employees to progress into leadership positions.
-•	Higher promotions of females in the Junior Officer profile but at the top level profile female promotion is lower. This may be connected to performance rating, lack of support, and training to improve performance.
+-	The higher turnover percentage among female employees suggests that there may be factors leading to dissatisfaction or challenges specific to female employees’ experiences within the company. This could include issues related to work-life balance, workplace culture, or career advancement opportunities.
+-	The observation that there are more male employees in higher-level job profiles indicates that there may be systemic barriers or a lack of support for female employees to progress into leadership positions.
+-	Higher promotions of females in the Junior Officer profile but at the top level profile female promotion is lower. This may be connected to performance rating, lack of support, and training to improve performance.
 
 ## **Project Outcomes:**
 
