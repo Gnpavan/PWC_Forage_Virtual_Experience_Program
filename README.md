@@ -40,7 +40,7 @@ The organisation is keen to know the possible customers who are likely to churn.
 
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/67169379-745c-4834-9e79-9494886c0af7)
 
-**Link to Dashboard** [Dashboard](
+**Link to Dashboard** [Dashboard](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/blob/master/Task_4/Diversity%20and%20Inclusion%20Analytics%20DB.pbix)
 
 Here, we create a dashboard on the employee participation in the organisation. We define the key KPIs like, New Hires, Promotions, Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity and eliminating gender-based stereotyping is key to the balanced workforce and company success.
 
