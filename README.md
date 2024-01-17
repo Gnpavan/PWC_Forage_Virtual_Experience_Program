@@ -25,7 +25,7 @@ Above is the dashboard I have built with the call center dataset received from t
 
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/899b0950-8ba8-431a-b0a9-c407477d3f73)
 
-**Link to Dashboard** [Dashboard](
+**Link to Dashboard** [Dashboard](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/blob/master/Task_3/Churn%20Analytics%20DB.pbix)
 
 The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have the highest chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to reduce the churning rate and increase customer loyalty.
 
