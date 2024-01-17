@@ -12,6 +12,8 @@ The tasks here were to analyze three datasets with different industry backdrops.
 ## **Project Findings:**
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/13a7b9d5-40f1-4bb5-8e68-c7e26da4a611)
 
+**Link to Dashboard** [Dashboard][https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/blob/master/Task_2/Call%20Center%20Analytics%20DB.pbix]
+
 
 Above is the dashboard I have built with the call center dataset received from the team. This case study deals with the Call Centre Trends. Here, we analyse the number of incoming calls, call agent's performance, speed of answer, call duration, trends on daily and hourly basis and customer satisfaction ratings. The dashboard defines key KPIs that impact the customer satisfaction as well as performance of the call agents. The goal is to identify opportunities where the performance can be monitored and enhanced.
 
@@ -22,6 +24,8 @@ Above is the dashboard I have built with the call center dataset received from t
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/baf681c6-ff96-4ed3-b0fe-b103c6da826f)
 
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/899b0950-8ba8-431a-b0a9-c407477d3f73)
+
+**Link to Dashboard** [Dashboard](
 
 The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have the highest chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to reduce the churning rate and increase customer loyalty.
 
@@ -35,6 +39,8 @@ The organisation is keen to know the possible customers who are likely to churn.
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/478166f4-57a9-4092-8010-7cb9c20f18f2)
 
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/67169379-745c-4834-9e79-9494886c0af7)
+
+**Link to Dashboard** [Dashboard](
 
 Here, we create a dashboard on the employee participation in the organisation. We define the key KPIs like, New Hires, Promotions, Employee Exits and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity and eliminating gender-based stereotyping is key to the balanced workforce and company success.
 
