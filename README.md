@@ -12,7 +12,7 @@ The tasks here were to analyze three datasets with different industry backdrops.
 ## **Project Findings:**
 ![image](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/assets/89655397/13a7b9d5-40f1-4bb5-8e68-c7e26da4a611)
 
-**Link to Dashboard** [Dashboard][https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/blob/master/Task_2/Call%20Center%20Analytics%20DB.pbix]
+**Link to Dashboard** [Dashboard](https://github.com/Gnpavan/PWC_Forage_Virtual_Experience_Program/blob/master/Task_2/Call%20Center%20Analytics%20DB.pbix)
 
 
 Above is the dashboard I have built with the call center dataset received from the team. This case study deals with the Call Centre Trends. Here, we analyse the number of incoming calls, call agent's performance, speed of answer, call duration, trends on daily and hourly basis and customer satisfaction ratings. The dashboard defines key KPIs that impact the customer satisfaction as well as performance of the call agents. The goal is to identify opportunities where the performance can be monitored and enhanced.
